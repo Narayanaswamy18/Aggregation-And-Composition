@@ -116,3 +116,16 @@ public class AggregationComposition {
 	}
 
 }
+Output is
+50
+25
+65
+red
+Duke
+35.8
+Silent
+Shakesphere
+Duke
+35.8
+Silent
+Shakesphere
